@@ -1,15 +1,14 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Hank Quinlan, Horrible Cop</title>
+		<title> </title>
 	</head>
 	<body>
 		<nav>
     		<ul>
         		<li><a href="/">Home</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/cv">CV</a></li>
-        		<li><a href="/blog">Blog</a></li>
+	        	<li><a href="/Summaries">About</a></li>
+        		<li><a href="/Abstracts">CV</a></li>
     		</ul>
 		</nav>
 		<div class="container">
